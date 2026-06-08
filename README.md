@@ -3,7 +3,6 @@ I'm Hrishti gupta
 During mathematics and computing from shri mata vaishno devi unversity (2nd year).
 <br>
 Currently learning AI/ML
-<img align="right" alt="coding" width="400" src="<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/e027b39f-50cf-451c-843c-76416d09d6d7" />
 >
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hrishti_gupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishtigupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrishtigupta@gmail.com) 
